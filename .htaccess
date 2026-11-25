@@ -1,0 +1,12 @@
+Options -Indexes
+DirectoryIndex index.html
+AddType image/webp .webp
+AddType image/x-icon .ico
+AddType font/woff2 .woff2
+<IfModule mod_headers.c>
+ Header always set X-Content-Type-Options "nosniff"
+ Header always set Referrer-Policy "strict-origin-when-cross-origin"
+ <FilesMatch "\.(html|json)$">
+  Header set Cache-Control "no-cache, must-revalidate"
+ </FilesMatch>
+</IfModule>

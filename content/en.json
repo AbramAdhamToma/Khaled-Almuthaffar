@@ -1,0 +1,328 @@
+{
+  "documents": [
+    {
+      "id": "english",
+      "title": "Khaled Al-Muzaffar — English CV",
+      "file": "english.pdf",
+      "visible": true
+    },
+    {
+      "id": "arabic",
+      "title": "خالد المظفر — السيرة الذاتية العربية",
+      "file": "arabic.pdf",
+      "visible": true
+    },
+    {
+      "id": "full-english",
+      "title": "Khaled Al-Muzaffar — Full English CV",
+      "file": "full-english.pdf",
+      "visible": true
+    },
+    {
+      "id": "full-arabic",
+      "title": "خالد المظفر — السيرة الذاتية العربية الكاملة",
+      "file": "full-arabic.pdf",
+      "visible": true
+    }
+  ],
+  "visual": {
+    "favicon": "/images/midnight-platinum-logo.png"
+  },
+  "site": {
+    "name": "Khaled Almuthaffar",
+    "eyebrow": "Leadership. With Impact.",
+    "tagline": "Building Better Systems. Enabling Better Performance.",
+    "intro": "20 years of professional experience in institutional excellence, performance management, operational development, and digital transformation.",
+    "heroImage": "/images/khalid-hero.png",
+    "aboutImage": "/images/khalid-about.png",
+    "linkedin": "https://www.linkedin.com/in/khaled-al-muzaffar/",
+    "whatsapp": "+966531347799",
+    "whatsappMessage": "",
+    "email": "k.almudhafr@sharqiah.gov.sa",
+    "cv": ""
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Profile",
+    "expertise": "Expertise",
+    "impact": "Impact",
+    "journey": "Journey",
+    "credentials": "Credentials",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Leadership that turns complexity into progress.",
+    "description": "A career connecting institutional ambition with practical systems, measurable performance, and capable teams.",
+    "primary": "Explore My Journey",
+    "secondary": "Selected Initiatives",
+    "metricsTitle": "A record of contribution",
+    "expertiseTitle": "Where strategy meets execution",
+    "impactTitle": "Selected initiatives",
+    "journeyTitle": "A career of expanding responsibility",
+    "contactTitle": "Let’s build better performance together."
+  },
+  "about": {
+    "title": "Executive profile",
+    "lead": "Institutional development grounded in operational reality.",
+    "body": "Across government administration, field operations, institutional excellence, and digital workflows, Khalid has worked to make responsibilities clearer, information more useful, and service delivery more coherent.",
+    "philosophy": "Effective transformation begins with understanding how work actually moves, then aligning people, processes, and evidence around a better way forward.",
+    "interests": "Operational excellence, performance systems, organisational development, and practical digital transformation."
+  },
+  "expertise": {
+    "title": "Areas of expertise",
+    "lead": "Seven connected disciplines, one focus: stronger institutions."
+  },
+  "impact": {
+    "title": "Selected initiatives",
+    "lead": "Documented contributions across performance, operations, digital systems, and people."
+  },
+  "journey": {
+    "title": "Career journey",
+    "lead": "Overlapping phases reflect concurrent assignments and formal roles."
+  },
+  "credentials": {
+    "title": "Credentials & development",
+    "lead": "Academic study, continuous learning, and community contribution.",
+    "educationTitle": "Academic qualifications",
+    "trainingTitle": "Professional development",
+    "volunteerTitle": "Community engagement",
+    "recognitionTitle": "Recognition",
+    "volunteerBody": "Participation in volunteer, health, and social initiatives. Hours and recognition details remain subject to editorial verification."
+  },
+  "contact": {
+    "title": "Connect on leadership and transformation",
+    "lead": "Open to conversations about operational excellence, performance management, and business transformation.",
+    "linkedinLabel": "Connect on LinkedIn",
+    "emailLabel": "Email Khalid",
+    "cvLabel": "Download public CV",
+    "whatsappLabel": "Contact on WhatsApp"
+  },
+  "metrics": [
+    {
+      "id": "years",
+      "visible": true,
+      "value": 20,
+      "label": "years of professional experience",
+      "status": "approved",
+      "suffix": "+"
+    },
+    {
+      "id": "reports",
+      "visible": true,
+      "value": 126,
+      "label": "reports for centres prepared and monitored",
+      "status": "approved",
+      "prefix": "~"
+    },
+    {
+      "id": "trained",
+      "visible": true,
+      "value": 104,
+      "label": "employees in a computer fundamentals programme he contributed to",
+      "status": "approved"
+    },
+    {
+      "id": "volunteer",
+      "visible": false,
+      "value": 862,
+      "label": "volunteer hours",
+      "status": "pending"
+    }
+  ],
+  "areas": [
+    {
+      "id": "excellence",
+      "visible": true,
+      "title": "Institutional excellence",
+      "body": "Maturity assessment, improvement plans, and practices that support organisational development."
+    },
+    {
+      "id": "performance",
+      "visible": true,
+      "title": "Performance management",
+      "body": "Indicators connected to objectives, outcomes, operational planning, and corrective action."
+    },
+    {
+      "id": "analytics",
+      "visible": true,
+      "title": "Data & executive reporting",
+      "body": "Dashboards, analytical reports, and information structured for leadership decisions."
+    },
+    {
+      "id": "digital",
+      "visible": true,
+      "title": "Digital transformation",
+      "body": "Electronic workflows that bring field and office operations into a more coherent system."
+    },
+    {
+      "id": "process",
+      "visible": true,
+      "title": "Process improvement",
+      "body": "Workflow redesign, consistent procedures, clear ownership, and operational governance."
+    },
+    {
+      "id": "leadership",
+      "visible": true,
+      "title": "Administrative leadership",
+      "body": "Committee coordination, capability development, and practical change management."
+    },
+    {
+      "id": "stakeholders",
+      "visible": true,
+      "title": "Stakeholder coordination",
+      "body": "Institutional communication and cooperation across teams, entities, and beneficiaries."
+    }
+  ],
+  "cases": [
+    {
+      "id": "performance",
+      "visible": true,
+      "title": "Institutional performance management",
+      "challenge": "Make departmental performance more visible and actionable.",
+      "role": "Assigned institutional excellence leadership, 2024–2025.",
+      "actions": "Developed indicators, monitored approximately 126 centre reports, and converted results into dashboards and performance presentations.",
+      "value": "Supported reviews, improvement planning, and more informed decisions."
+    },
+    {
+      "id": "digital",
+      "visible": true,
+      "title": "Paper-to-digital transformation",
+      "challenge": "Reduce dependence on paper in committee and field operations.",
+      "role": "Assigned field committee leadership from 2026.",
+      "actions": "Advanced a digital operating approach linking documentation, transactions, and follow-up across field and office work.",
+      "value": "Clearer records and more consistent coordination."
+    },
+    {
+      "id": "workflow",
+      "visible": true,
+      "title": "Administrative workflow redesign",
+      "challenge": "Simplify administrative referrals and field recording.",
+      "role": "Assigned administrative affairs leadership in 2022.",
+      "actions": "Moved paper transactions into electronic workflows, developed an application for direct field-case recording, and redesigned the referral path.",
+      "value": "A more direct, organised way to capture and route work."
+    },
+    {
+      "id": "knights",
+      "visible": true,
+      "title": "Knights of Excellence",
+      "challenge": "Encourage consistent excellence practices across departments.",
+      "role": "Initiative development during the institutional excellence assignment.",
+      "actions": "Developed assessment and selection criteria and supported workshops.",
+      "value": "A structured mechanism for recognising improvement practices."
+    },
+    {
+      "id": "capability",
+      "visible": true,
+      "title": "Professional capability development",
+      "challenge": "Expand access to relevant learning opportunities.",
+      "role": "Contributed to training planning and partnerships.",
+      "actions": "Helped extend training from approximately five annual courses to year-round opportunities and contributed to a computer fundamentals programme for 104 employees.",
+      "value": "Broader access to professional and digital skills."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "field",
+      "visible": true,
+      "date": "2026–Present",
+      "title": "Regulatory and field committee leadership",
+      "body": "Assigned leadership of committee operations, process organisation, and digital documentation."
+    },
+    {
+      "id": "excellence",
+      "visible": true,
+      "date": "2024–2025",
+      "title": "Institutional excellence leadership",
+      "body": "Assigned leadership in indicators, reporting, improvement plans, and training."
+    },
+    {
+      "id": "admin",
+      "visible": true,
+      "date": "2022–2023",
+      "title": "Administrative and regulatory development",
+      "body": "Assigned leadership responsibilities alongside administrative and field development."
+    },
+    {
+      "id": "monitoring",
+      "visible": true,
+      "date": "2016–2021",
+      "title": "Field monitoring and operations",
+      "body": "Field oversight, documentation, public interaction, and operational follow-up."
+    },
+    {
+      "id": "coordination",
+      "visible": true,
+      "date": "2008–2017",
+      "title": "Administration and institutional coordination",
+      "body": "Correspondence, office administration, stakeholder coordination, and expanding responsibilities."
+    },
+    {
+      "id": "media",
+      "visible": true,
+      "date": "2002–2006",
+      "title": "Journalism and media communication",
+      "body": "Journalism, field reporting, interviews, and public communication."
+    }
+  ],
+  "education": [
+    {
+      "id": "masters",
+      "visible": true,
+      "title": "Master’s in Sociology",
+      "body": "King Faisal University, 2026. Research interest: artificial intelligence efficiency and social institutions."
+    },
+    {
+      "id": "bachelors",
+      "visible": true,
+      "title": "Bachelor’s in Sociology and Social Work",
+      "body": "King Faisal University, 2021."
+    },
+    {
+      "id": "business",
+      "visible": true,
+      "title": "Diploma in Computer Applications in Business",
+      "body": "Eastern College, Fredericton, Canada, 2012."
+    },
+    {
+      "id": "english",
+      "visible": true,
+      "title": "Diploma in English for Academic Purposes",
+      "body": "Saint John College, Canada, 2009–2010."
+    },
+    {
+      "id": "office",
+      "visible": true,
+      "title": "Higher Diploma in Office Administration",
+      "body": "Technical College in Al-Ahsa, 2001–2003."
+    }
+  ],
+  "training": [
+    {
+      "id": "ai",
+      "visible": true,
+      "title": "AI & data analysis",
+      "body": "Selected training in AI applications, data analysis, and digital project management."
+    },
+    {
+      "id": "performance",
+      "visible": true,
+      "title": "Performance & digital services",
+      "body": "Power BI, service design, Power Apps, surveys, and electronic signature."
+    },
+    {
+      "id": "governance",
+      "visible": true,
+      "title": "Administration & governance",
+      "body": "IT governance, systems auditing, strategy, project management, public relations, and protocol."
+    }
+  ],
+  "sections": {
+    "home": [
+      "metrics",
+      "expertise",
+      "impact",
+      "journey",
+      "contact"
+    ]
+  }
+}
